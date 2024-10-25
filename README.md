@@ -47,7 +47,7 @@ Aqui estão algumas estatísticas do meu desempenho no GitHub, para que você po
 ### ✨ Projetos e Contribuições:
 Estou sempre buscando aplicar o que estou aprendendo em projetos reais. Aqui estão alguns dos projetos que desenvolvi ou estou trabalhando:
 
-- 🔧 [**Projeto de Automação com Python**](#) - Um projeto que automatiza tarefas no meu trabalho atual, melhorando a eficiência.
+- 🔧 [**Projetos de Automação com Python**](#) - Meus projetos que automatizam tarefas no meu trabalho atual, melhorando a eficiência.
 - 🖥️ [**Portfólio com Next.js**](#) - Um site pessoal desenvolvido com Next.js para mostrar minhas habilidades e projetos.
 
 ---
